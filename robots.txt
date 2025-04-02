@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://buy-glucofort.vercel.app
+Sitemap: https://buy-glucofort.vercel.app/sitemap.xml
