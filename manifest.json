@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Glucofort™ (Official) Get 72% Off + Free Shipping",
+  "short_name":"Glucofort™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Glucofort is a dietary supplement that supports healthy blood sugar levels and glucose metabolism.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
